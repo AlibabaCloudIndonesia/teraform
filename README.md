@@ -1,0 +1,2 @@
+# teraform
+Contoh Script Teraform
